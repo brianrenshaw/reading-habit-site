@@ -28,3 +28,7 @@ The new site is static HTML/CSS plus the existing browser game. GitHub Actions v
 Rollout is in progress. The central [migration log](https://github.com/brianrenshaw/brianrenshaw-app-site/blob/main/MIGRATION.md) is authoritative for HTTPS, legacy redirects, Apple read-back results, remaining release-dependent changes, and verification limits.
 
 Website changes are committed separately from ongoing app work. Existing uncommitted app changes are preserved. Historical submission snapshots may contain the previous URLs; use the canonical values above for the next submission.
+
+Icon correction: the current unframed gold R from `book-tracker/Sources/BookTracker/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png` is authoritative over the older framed website mockup. The consolidated site uses that asset for icons, favicon, social preview and portfolio placement.
+
+Who’s First? canonical path is `/whos-first/` (support and privacy underneath). Its browser game is retired; legacy `/chooser/` links redirect to the native app website. Pinball is included in the native screenshot gallery.
