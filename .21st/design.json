@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "project": {
+    "name": "reading-habit-site",
+    "productType": "Public app homepage and user guide",
+    "stack": [
+      "HTML",
+      "CSS",
+      "GitHub Pages"
+    ]
+  },
+  "sources": {
+    "tokens": [
+      "assets/styles.css"
+    ],
+    "components": [],
+    "assets": [
+      "assets"
+    ],
+    "instructions": []
+  },
+  "design": {
+    "colorMode": "light",
+    "colors": {
+      "canvas": "#fafaf9",
+      "surface": "#f2f2f1",
+      "ink": "#24272a",
+      "secondary": "#606469",
+      "accent": "#0074b0"
+    },
+    "typography": {
+      "family": "system sans-serif"
+    },
+    "spacing": {},
+    "radius": {},
+    "shadows": {},
+    "motion": {
+      "default": "none"
+    },
+    "density": "compact"
+  },
+  "components": {
+    "installed": [],
+    "preferredPrimitives": [],
+    "patterns": []
+  },
+  "constraints": {
+    "must": [
+      "Responsive layout",
+      "Keyboard access",
+      "Native HTML navigation and disclosures",
+      "Existing white-background journal icon",
+      "Verified current app copy",
+      "Sample library screenshots"
+    ],
+    "avoid": [
+      "Runtime dependencies",
+      "Analytics",
+      "External fonts",
+      "App source or private data",
+      "Unverified download links"
+    ]
+  },
+  "decisions": [
+    "Approved: homepage plus separate comprehensive guide in a public GitHub Pages repository.",
+    "Follow Quiet Depth: neutral surfaces, restrained blue, compact content-led layouts, system typography.",
+    "Use existing journal icon and September 8 Reading Habit simulator screenshots with synthetic data.",
+    "21st catalog search grounded landing-page and sidebar composition; no component code or dependencies imported."
+  ],
+  "evidence": [],
+  "generatedAt": "2026-09-08T17:35:18.641Z"
+}
