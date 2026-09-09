@@ -21,7 +21,7 @@ The public website is maintained in **[brianrenshaw-app-site](https://github.com
 - App page / Marketing URL: https://brianrenshaw.app/reading-habit/
 - Support URL: https://brianrenshaw.app/reading-habit/support/
 - Privacy Policy URL: https://brianrenshaw.app/reading-habit/privacy/
-- Contact: contact@foliohtml.com
+- Contact: contact@brianrenshaw.app
 - App Store Connect app ID: `6809740339`
 - User guide: https://brianrenshaw.app/reading-habit/guide/
 
